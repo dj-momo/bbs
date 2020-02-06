@@ -33,6 +33,8 @@
                 </div>
             </div>
             <button type="submit" class="btn btn-primary btn-block btn-lg">Sign in</button>
+            <hr>
+            <span class="text-muted mt-4">Don't have an account? <a href="/register">Register</a> instead
         </form>
     </div>
 </div>
